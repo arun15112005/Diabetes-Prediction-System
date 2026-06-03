@@ -6,7 +6,7 @@ A Machine Learning-based web application that predicts the likelihood of diabete
 
 ## 🌐 Live Demo
 
-👉 https://your-streamlit-app-link.streamlit.app
+👉[ https://your-streamlit-app-link.streamlit.app](https://diabetes-prediction-system-n5bbeyrknxzmhtagalrbmy.streamlit.app/)
 
 ---
 
