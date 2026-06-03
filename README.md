@@ -81,6 +81,13 @@ streamlit run app.py
 🎯 Output
 🟢 Low Risk of Diabetes
 🔴 High Risk of Diabetes
+## 📸 Screenshots
+
+### Input Page
+![Input Page](https://raw.githubusercontent.com/arun15112005/Diabetes-Prediction-System/main/dibetesproject1.jpeg)
+
+### Prediction Result
+![Prediction Result](https://raw.githubusercontent.com/arun15112005/Diabetes-Prediction-System/main/dibetesproject2.jpeg)
 📌 Future Improvements
 Improve model accuracy with hyperparameter tuning
 Add probability score for prediction
