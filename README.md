@@ -84,10 +84,10 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### Input Page
-![Input Page](https://raw.githubusercontent.com/arun15112005/Diabetes-Prediction-System/main/dibetesproject1.jpeg)
+![Input Page](https://github.com/arun15112005/Diabetes-Prediction-System/blob/main/dibetesproject1.jpeg?raw=true)
 
 ### Prediction Result
-![Prediction Result](https://raw.githubusercontent.com/arun15112005/Diabetes-Prediction-System/main/dibetesproject2.jpeg)
+![Prediction Result](https://github.com/arun15112005/Diabetes-Prediction-System/blob/main/dibetesproject2.jpeg?raw=true)
 📌 Future Improvements
 Improve model accuracy with hyperparameter tuning
 Add probability score for prediction
